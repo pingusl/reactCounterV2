@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <header className="header">
       <span>
-        <img src={logo} className="image" />
+        <img src={logo} className="image" alt="logo-chrono" />
       </span>
 
       <span> React Counter V2</span>
